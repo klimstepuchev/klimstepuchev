@@ -5,4 +5,5 @@
 - ⌨️ I like programming
 - 💪 In my spare time I do calisthenics
 
-### Connect with me
+### Langueges and Tools
+![HTML](https://img.shields.io/badge/HTLM-important?style=for-the-badge&logo=)
