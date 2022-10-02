@@ -6,4 +6,4 @@
 - 💪 In my spare time I do calisthenics
 
 ### Langueges and Tools
-<img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=HTML5&logoColor=000"/>  <img src="https://img.shields.io/badge/CSS-696969?style=for-the-badge&logo=CSS3&logoColor=000"/>  <img src="https://img.shields.io/badge/JavaScript-696969?style=for-the-badge&logo=JavaScript&logoColor=000"/>  <img src="https://img.shields.io/badge/SASS-696969?style=for-the-badge&logo=Sass&logoColor=000"/> 
+![HTML](https://img.shields.io/badge/HTML-222?style=for-the-badge&logo=HTML5) ![HTML](https://img.shields.io/badge/CSS-222?style=for-the-badge&logo=CSS3) ![HTML](https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=JavaScript) ![HTML](https://img.shields.io/badge/SASS-222?style=for-the-badge&logo=Sass)
