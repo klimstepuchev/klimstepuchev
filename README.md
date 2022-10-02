@@ -7,3 +7,6 @@
 
 ### Langueges and Tools
 ![HTML](https://img.shields.io/badge/HTML-222?style=for-the-badge&logo=HTML5) ![HTML](https://img.shields.io/badge/CSS-222?style=for-the-badge&logo=CSS3) ![HTML](https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=JavaScript) ![HTML](https://img.shields.io/badge/SASS-222?style=for-the-badge&logo=Sass)
+
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-222?style=for-the-badge&logo=Telegram)](https://t.me/klimstepuchev) [![Vkontakte](https://img.shields.io/badge/Vkontakte-222?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]([https://t.me/klimstepuchev](https://vk.com/klimstepuchev))
